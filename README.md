@@ -5,7 +5,7 @@
 - 🔭 Full-stack developer with 10 years of experience designing and building scalable, high-performance Web3 web and mobile applications<br/>
 - 🌱 Proficient in Blockchain technologies like NFT, DAO, DEFI, DEX, Crypto Game on EVM, BSC, Solana, Terra, Cosmos platforms<br/>
 - 🌱 Proficient in front-end technologies like React, React Native, Next.js, Remix, Angular, and Vue.js, Nuxt.js, Flutter, Dart, Swift<br/> 
-- 🌱 Proficient in back-end technologies like Node.js, Nest.js, Golang, GraphQL, Python, and PHP<br/>
+- 🌱 Proficient in back-end technologies like Node.js, Nest.js, Golang, GraphQL, Python<br/>
 - 👍 Experienced in DevOps, CI/CD, and Cloud infrastructure, especially with AWS and Azure also GCP<br/>
 - 😍 Developed some AI Apps and integrated with web and ChatGPT.
 - 😉 Deep knowledge about deep learning, recommendation system and reinforcement system.</br>
@@ -101,16 +101,12 @@
 ✨ Preferred Web3 technologies ✔NFT, ✔DAO, ✔DEFI, ✔DEX, ✔Crypto Game on ✔EVM, ✔Solana, ✔Terra, ✔Cosmos platforms
 
 ✨ Preferred ✔Golang frameworks ✔Geth, ✔Gin, ✔Gorilla mux, ✔Bun and etc...
-
-✨ Preferred PHP frameworks ✔Laravel, ✔Codeigniter, ✔Sympony, ✔Yii
        
 ✨ Preferred Python frameworks   ✔Python, ✔Django, ✔Flask
           
 ✨ Preferred style frameworks    ✔Tailwind CSS, ✔Bootstrap, ✔Material-UI
          
 ✨ Database options   ✔MongoDB, ✔MySQL, ✔PostgreSQL, ✔MSSQL
-         
-✨ Preferred CMS Platform   ✔WordPress, ✔Shopify, ✔WIx, ✔Squarespace, ✔bubble.io
          
 ✨ Web hosting options    ✔ Azure service   ✔ AWS Services - EC2, S3, and Lambda    ✔ cPanel service, ✔GoDaddy
          
