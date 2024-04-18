@@ -3,7 +3,7 @@
 <div>
 <br/>
 - 🔭 Full-stack developer with 10 years of experience designing and building scalable, high-performance Web3 web and mobile applications<br/>
-- 🌱 Proficient in Block technologies like NFT, DAO, DEFI, DEX, Crypto Game on EVM, Solana, Terra, Cosmos platforms<br/>
+- 🌱 Proficient in Blockchain technologies like NFT, DAO, DEFI, DEX, Crypto Game on EVM, BSC, Solana, Terra, Cosmos platforms<br/>
 - 🌱 Proficient in front-end technologies like React, React Native, Next.js, Remix, Angular, and Vue.js, Nuxt.js, Flutter, Dart, Swift<br/> 
 - 🌱 Proficient in back-end technologies like Node.js, Nest.js, Golang, GraphQL, Python, and PHP<br/>
 - 👍 Experienced in DevOps, CI/CD, and Cloud infrastructure, especially with AWS and Azure also GCP<br/>
