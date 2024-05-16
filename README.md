@@ -3,7 +3,7 @@
 <div>
 <br/>
 - 🔭 Full-stack developer with 10 years of experience designing and building scalable, high-performance Web3 web and mobile applications<br/>
-- 🌱 Proficient in Blockchain technologies like NFT, DAO, DEFI, DEX, Crypto Game on EVM, BSC, Solana, Terra, Cosmos platforms<br/>
+- 🌱 Proficient in Blockchain technologies like NFT, DAO, DEFI, DEX(Thorchain, Mayachain, Uniswap), Crypto Game on EVM, BSC, Solana, XRPL, Terra, Cosmos platforms, <br/>
 - 🌱 Proficient in front-end technologies like React, React Native, Next.js, Remix, Angular, and Vue.js, Nuxt.js, Flutter, Dart, Swift<br/> 
 - 🌱 Proficient in back-end technologies like Node.js, Nest.js, Golang, GraphQL, Python<br/>
 - 👍 Experienced in DevOps, CI/CD, and Cloud infrastructure, especially with AWS and Azure also GCP<br/>
@@ -16,6 +16,19 @@
 <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
 
 <div style="width: 100%; display: flex; justify-content: space-between; flex-direction: column;">
+  <div>
+    <h2>Blockchain</h2>
+    <div>
+      <img src="https://cryptologos.cc/logos/bitcoin-btc-logo.png?v=032" alt="Bitcoin" width="45" height="45" />
+      <img src="https://cryptologos.cc/logos/ethereum-eth-logo.png?v=032" alt="ETH" width="45" height="45" />
+      <img src="https://cryptologos.cc/logos/tether-usdt-logo.png?v=032" alt="Tether" width="45" height="45" />
+      <img src="https://cryptologos.cc/logos/bnb-bnb-logo.png?v=032" alt="BNB" width="45" height="45"/>
+      <img src="https://cryptologos.cc/logos/solana-sol-logo.svg?v=032" alt="SOLANA" width="45" height="45"/>
+      <img src="https://cryptologos.cc/logos/xrp-xrp-logo.svg?v=032" alt="XRP" width="45" height="45" />
+      <img src="https://cryptologos.cc/logos/polygon-matic-logo.svg?v=032" alt="Polygon" width="70" height="45" />
+      <img src="https://cryptologos.cc/logos/avalanche-avax-logo.svg?v=032" alt="AVAX" width="70" height="45" />
+    </div>
+  </div>
   <div>
     <h2>Front-end</h2>
     <div>
